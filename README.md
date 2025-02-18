@@ -19,12 +19,6 @@ This Python script demonstrates the creation of a basic chatbot using the Natura
 
 ---
 
-### OUPUT OF THE TASK
-
-![task3](https://github.com/user-attachments/assets/4fc18251-1321-44ad-bbe2-bc5e1ee428df)
-
----
-
 ### **1. Importing Required Libraries**
 - **`nltk.chat.util.Chat`**: A module for creating a rule-based chatbot that matches user input to predefined patterns and generates corresponding responses.
 - **`nltk.chat.util.reflections`**: A dictionary used for input reflection (e.g., converting "I am" to "You are"), enabling more conversational interactions.
